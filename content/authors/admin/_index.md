@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Это 
+bio: Это я да. Гибшер Кирилл.
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,6 @@ interests:
   - Иностранные языки 
   - Спорт 
   
-
 # Education to show in About widget
 education:
   courses:
